@@ -6,7 +6,7 @@ Junior Student @UW-Madison, Majoring in CS & DS
 
 * 🌍  I'm based in Madison
 * ✉️  You can contact me at [yprabhu2@wisc.edu](mailto:yprabhu2@wisc.edu)
-* 🧠  I'm learning PyTorch
+* 🧠  I'm currently learning PyTorch
 * 🤝  I'm open to collaborating on Machine Learning and Data Science Projects
 
 ### Skills
