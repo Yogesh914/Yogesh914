@@ -7,6 +7,7 @@ Junior Student @UW-Madison, Majoring in CS & DS
 * 🌍  I'm based in Madison
 * 🖥️  See my portfolio at [MyPortfolio](http://yogeshpra.framer.website/)
 * ✉️  You can contact me at [yprabhu2@wisc.edu](mailto:yprabhu2@wisc.edu)
+* * 🚀  I'm currently working on [Breast Cancer Detection](https://github.com/Yogesh914/wisconsin-breast-cancer-detection)
 * 🧠  I'm currently learning PyTorch
 * 🤝  I'm open to collaborating on Machine Learning and Data Science Projects
 
