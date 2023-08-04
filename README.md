@@ -10,7 +10,7 @@ Junior Student @UW-Madison, Majoring in CS & DS
 * 🎙️ I also have a podcast at [Program Life](https://podcasts.apple.com/us/podcast/program-life-productivity-mental-health/id1536793842)
 * 🚀  I'm currently working on [Breast Cancer Detection](https://github.com/Yogesh914/wisconsin-breast-cancer-detection)
 * 🧠  I'm currently learning Web Development
-* 🤝  I'm open to collaborating on Machine Learning and Data Science Projects
+* 🤝  I'm open to collaborating on Machine Learning and Data Science Project
 
 ### Skills
 
