@@ -8,7 +8,7 @@ Junior Student @UW-Madison, Majoring in CS & DS
 * 🖥️  See my portfolio at [MyPortfolio](http://yogeshpra.framer.website/)
 * ✉️  You can contact me at [yprabhu2@wisc.edu](mailto:yprabhu2@wisc.edu)
 * 🎙️ I also have a podcast at [Program Life](https://podcasts.apple.com/us/podcast/program-life-productivity-mental-health/id1536793842)
-* 🚀  I'm currently working on [Breast Cancer Detection](https://github.com/Yogesh914/wisconsin-breast-cancer-detection)
+* 🚀  I'm currently working on [Breast Cancer Detection](https://github.com/Yogesh914/wisconsin-breast-cancer-detection) and [Google Research Paper Replication](https://github.com/Yogesh914/ViT_paper_replication)
 * 🧠  I'm currently learning Web Development
 * 🤝  I'm open to collaborating on Machine Learning and Data Science Projects
 
