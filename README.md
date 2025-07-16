@@ -5,9 +5,7 @@ Senior Student @UW-Madison, Majoring in CS & DS
 -----------------------------------------------
 
 * 🌍  I'm based in Madison
-* 🖥️  See my website at [Home](http://yogeshpra.framer.website/)
 * 🎙️ I also have a podcast at [Program Life](https://podcasts.apple.com/us/podcast/program-life-productivity-mental-health/id1536793842)
-* 🚀  I'm currently working on [EmoGo Project](https://github.com/Yogesh914/emogo-ml) 
 
 ### Skills
 
